@@ -8,7 +8,7 @@
 ## Modules
 
 #### Part 1: SWE Fundamentals
-[Module One: Basic Programming] (https://github.com/NatalieJClark/my-makers-journey/blob/main/SWE%20Fundamentals/1_basic_programming.md)  
+[Module One: Basic Programming](https://github.com/NatalieJClark/my-makers-journey/blob/main/SWE%20Fundamentals/1_basic_programming.md)  
 Module Two: Golden Square Practices  
 Module Three: Databases  
 Module Four: Web applications  
