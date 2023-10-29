@@ -9,11 +9,11 @@
 
 #### Part 1: SWE Fundamentals
 [Module One: Basic Programming](https://github.com/NatalieJClark/my-makers-journey/blob/main/SWE%20Fundamentals/1_basic_programming.md)  
-Module Two: Golden Square Practices  
-Module Three: Databases  
-Module Four: Web applications  
-Module Five: Cloud Deployment  
-Module Six: Engineering Project 1
+[Module Two: Golden Square Practices](https://github.com/NatalieJClark/my-makers-journey/blob/main/SWE%20Fundamentals/2_golden_square.md)  
+[Module Three: Databases](https://github.com/NatalieJClark/my-makers-journey/blob/main/SWE%20Fundamentals/3_databases.md)  
+[Module Four: Web applications](https://github.com/NatalieJClark/my-makers-journey/blob/main/SWE%20Fundamentals/4_web_applications.md)  
+[Module Five: Cloud Deployment](https://github.com/NatalieJClark/my-makers-journey/blob/main/SWE%20Fundamentals/5_cloud_deployment.md)  
+[Module Six: Engineering Project 1](https://github.com/NatalieJClark/my-makers-journey/blob/main/SWE%20Fundamentals/6_engineering_project_1.md)
 
 #### Part 2: Software Development 
 
