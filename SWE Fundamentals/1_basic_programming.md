@@ -9,7 +9,7 @@
 ## Projects
 
 [Playing With Git](https://github.com/NatalieJClark/playing-with-git)  
-🔎 [Command Lind & Git Challenge](https://github.com/NatalieJClark/cmd_line_git_challenge)🔎 --> <a href=#command-line--git-challenge>Challenge recording & feedback</a>  
+⭐️ [Command Lind & Git Challenge](https://github.com/NatalieJClark/cmd_line_git_challenge) --> <a href=#command-line--git-challenge>Challenge recording & feedback</a>  
 
 ## Challenge Feedack
 
