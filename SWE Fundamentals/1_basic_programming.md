@@ -8,12 +8,14 @@
 
 ## Projects
 
-[Playing With Git](https://github.com/NatalieJClark/playing-with-git)
-[Command Lind & Git Challenge](https://github.com/NatalieJClark/cmd_line_git_challenge) >>> See challenge feedback
+[Playing With Git](https://github.com/NatalieJClark/playing-with-git)  
+[Command Lind & Git Challenge](https://github.com/NatalieJClark/cmd_line_git_challenge) >>> See challenge feedback  
 
 ## Challenge Feedack
 
 #### Command Line & Git Challenge
+
+https://github.com/NatalieJClark/my-makers-journey/assets/107806810/5fc222fa-9db8-44a2-8e0b-56d09172b938
 
 > #### Feedback from Neil Studd (Makers Coach)
 > Hi Natalie, I've reviewed your command line Git challenge from Friday afternoon. First things first, your output (the commits, the files and their contents) was 100% perfect - this already puts you into the upper echelons of people who complete this challenge!
