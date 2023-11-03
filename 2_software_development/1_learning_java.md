@@ -19,6 +19,6 @@
 #### If Statements (LeapYear) Challenge
 
 > #### Feedback from Neil Studd (Makers Coach)
-> As promised/hoped, some feedback on your LeapYear challenge!
+> Some feedback on your LeapYear challenge!
 >
 > It's very brief as I've seen enough of your Java code in the past couple of days to know that you "get" this. As usual, your methodical approach served you well - you utilised the provided examples as your test cases, you wrote a good first pass (which worked first time), and then you took the time to refactor, accepting some reasonable suggestions from IntelliJ's helpers. (I've seen other submissions where IntelliJ built some REALLY horrible traps by giving terrible suggestions!)
