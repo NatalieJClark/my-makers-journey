@@ -11,6 +11,7 @@
 
 ⭐️ [java-fundamentals-with-intellij](https://github.com/NatalieJClark/java-fundamentals-with-intellij) --> If Statements Challenge recording & feedback  
 [number_guesser](https://github.com/NatalieJClark/number_guesser)  
+⭐️ [fizz_buzz](https://github.com/NatalieJClark/fizz_buzz) --> Test-Driving FizzBuzz Challenge recoding & feedback
 
 ## Challenge Feedback
 
