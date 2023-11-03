@@ -9,12 +9,12 @@
 
 ## Projects
 
-⭐️ [java-fundamentals-with-intellij](https://github.com/NatalieJClark/java-fundamentals-with-intellij) --> If Statements Challenge recording & feedback
+⭐️ [java-fundamentals-with-intellij](https://github.com/NatalieJClark/java-fundamentals-with-intellij) --> If Statements Challenge recording & feedback  
 [number_guesser](https://github.com/NatalieJClark/number_guesser)
 
 ## Challenge Feedback
 
-#### If Statements Challenge
+#### If Statements (LeapYear) Challenge
 
 > #### Feedback from Neil Studd (Makers Coach)
 > As promised/hoped, some feedback on your LeapYear challenge!
