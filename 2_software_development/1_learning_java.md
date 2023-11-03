@@ -12,7 +12,7 @@
 ⭐️ [java-fundamentals-with-intellij](https://github.com/NatalieJClark/java-fundamentals-with-intellij) --> <a href=#if-statements-leapyear-challenge>If Statements Challenge recording & feedback</a>  
 [number_guesser](https://github.com/NatalieJClark/number_guesser)  
 ⭐️ [fizz_buzz](https://github.com/NatalieJClark/fizz_buzz) --> Test-Driving FizzBuzz Challenge recording & feedback  
-[hello-world](https://github.com/NatalieJClark/hello-world)
+[hello-world](https://github.com/NatalieJClark/hello-world)  
 
 ## Challenge Feedback
 
