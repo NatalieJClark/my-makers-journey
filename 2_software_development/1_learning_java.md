@@ -9,5 +9,5 @@
 
 ## Projects
 
-[java-fundamentals-with-intellij](https://github.com/NatalieJClark/java-fundamentals-with-intellij)
+[java-fundamentals-with-intellij](https://github.com/NatalieJClark/java-fundamentals-with-intellij)  
 [number_guesser](https://github.com/NatalieJClark/number_guesser)
