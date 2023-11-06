@@ -5,7 +5,12 @@
 - [x] Use Java's basic syntax.  
 - [x] Test-drive simple programming problems using Java.  
 - [x] Test-drive programs in Java using Object Oriented Programming.  
-- [x] Explain the main differences between Java and languages like Python, Ruby or JavaScript.  
+- [x] Explain the main differences between Java and languages like Python, Ruby or JavaScript.
+- [ ] Describe the purpose of Flyway
+- [ ] Use Flyway to manage database changes
+- [ ] Describe user authentication
+- [ ] Use Spring Security to implement user authentication
+- [ ] Build a database backed web application using Java and Spring Boot
 
 ## Projects
 
