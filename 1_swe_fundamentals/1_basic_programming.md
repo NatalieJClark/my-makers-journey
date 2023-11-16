@@ -3,13 +3,24 @@
 ## Learning Objectives
 
 - [x] Learn to manipulate files and directory structures using the command line.
-- [x] Learn to track changes to your code using Git version control.
-- [x] Learn to write small programs using Python.
+- [x] Learn to track changes to my code using Git version control.
+- [x] Learn to write small programs using Python:
+    - [x] Execute Python code in two different ways
+    - [x] Make a plan using problem decomposition and experimentation
+    - [x] Describe and use variables
+    - [x] Describe and use conditionals
+    - [x] Describe and use lists
+    - [x] Describe and use dictionaries
+    - [x] Describe and use loops to go through collections
+    - [x] Describe and use methods & functions
+    - [x] Describe and use classes
+    - [x] Build programs using all of the above!
 
 ## Projects
 
 [Playing With Git](https://github.com/NatalieJClark/playing-with-git)  
-⭐️ [Command Lind & Git Challenge](https://github.com/NatalieJClark/cmd_line_git_challenge) --> <a href=#command-line--git-challenge>Challenge feedback</a>  
+⭐️ [Command Line & Git Challenge](https://github.com/NatalieJClark/cmd_line_git_challenge) --> <a href=#command-line--git-challenge>Challenge feedback</a>  
+⭐️ [Python Foundations](https://github.com/NatalieJClark/python_foundations)
 
 ## Challenge Feedack
 
