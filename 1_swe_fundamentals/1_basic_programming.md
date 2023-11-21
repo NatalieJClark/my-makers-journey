@@ -21,10 +21,10 @@
 These are my projects for this module (starred projects involved a recorded challenge with coach feedback):
 - [Playing With Git](https://github.com/NatalieJClark/playing-with-git)
 - [Command Line & Git Challenge](https://github.com/NatalieJClark/cmd_line_git_challenge)  ⭐️ 
-    - <a href=#1-command-line--git-challenge>Challenge recording & feedback 👀</a>  
+    - <a href=#1-command-line--git-challenge>Challenge recording & feedback</a> 👀 
 - [Python Foundations](https://github.com/NatalieJClark/python_foundations)  ⭐️
-    - <a href="#2-python-fundamentals-chapter-one-challenge">Chapter 1 challenge recording & feedback 👀</a>
-    - <a href="#3-python-fundamentals-chapter-two-challenge">Chapter 2 challenge recording & feedback 👀</a>
+    - <a href="#2-python-fundamentals-chapter-one-challenge">Chapter 1 challenge recording & feedback</a> 👀 
+    - <a href="#3-python-fundamentals-chapter-two-challenge">Chapter 2 challenge recording & feedback</a> 👀 
 
 ## Challenge Recording & Feedback
 
