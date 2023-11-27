@@ -19,8 +19,8 @@
 [Module Six (Week 8): Engineering Project 1 - MakersBnB](https://github.com/NatalieJClark/my-makers-journey/blob/main/1_swe_fundamentals/6_engineering_project_1.md)  ◀︎◀︎◀︎  Check out my end of phase group project! 🚀
 
 #### Phase 2: Specialism - SOFTWARE DEVELOPMENT 👩‍💻 (Week 9-16)
-[Module One (Week 9-10): Learning Java & Its Tools](https://github.com/NatalieJClark/my-makers-journey/blob/main/2_software_development/1_learning_java.md)
-[Module Two (Week 11-12): Engineering Project 2] ◀︎◀︎◀︎  Check out my mid-phase group project! 🚀
-[Module One (Week 13-14): Learning Java & Its Tools]
+[Module One (Week 9-10): Learning Java & Its Tools](https://github.com/NatalieJClark/my-makers-journey/blob/main/2_software_development/1_learning_java.md)  
+[Module Two (Week 11-12): Engineering Project 2]() ◀︎◀︎◀︎  Check out my mid-phase group project! 🚀  
+[Module One (Week 13-14): Learning Java & Its Tools](https://github.com/NatalieJClark/my-makers-journey/blob/main/2_software_development/3_mobile_applications.md)  
 
 
