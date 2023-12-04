@@ -26,6 +26,11 @@
 
 ## Projects
 
-These are my projects for this module (starred projects involved a recorded challenge with coach feedback):
+These are my projects for this module: 
+
+Kotlin fundamentals:
 - [Kotlin Fundamentals](https://github.com/NatalieJClark/kotlin-fundamentals)
 - [Fizzbuzz Kotlin](https://github.com/NatalieJClark/fizzbuzz-kotlin)
+
+Android applications:
+- [Greeting Card](https://github.com/NatalieJClark/greeting-card)
