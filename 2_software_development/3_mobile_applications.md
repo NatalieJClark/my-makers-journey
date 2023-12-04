@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-- [x] Learn Kotlin fundamentals
+- [x] Kotlin fundamentals:
   - [x] Explain and use data types in Kotlin.
   - [x] Write Kotlin functions.
   - [x] Use conditionals in Kotlin.
@@ -11,6 +11,18 @@
   - [x] Write classes in Kotlin.
   - [x] Write unit tests in Kotlin.
   - [x] Install libraries using the tool Gradle
+- [ ] Android applications:
+  - [ ] Setup and use Android Studio basic features.
+  - [ ] Create an Android App with Android Studio.
+  - [ ] Run apps with the Preview tool in Android Studio.
+  - [ ] Update text with Kotlin.
+  - [ ] Update a User Interface (UI) with Jetpack Compose.
+  - [ ] See a preview of my app with Preview in Jetpack Compose.
+  - [ ] Create and use Composables.
+  - [ ] Implement a button in your app.
+  - [ ] Explain and use state with Composables.
+  - [ ] Handle navigation between two application screens.
+  - [ ] Extract state to a ViewModel.
 
 ## Projects
 
