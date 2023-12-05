@@ -34,3 +34,4 @@ Kotlin fundamentals:
 
 Android applications:
 - [Greeting Card](https://github.com/NatalieJClark/greeting-card)
+- [Happy Birthday](https://github.com/NatalieJClark/happy-birthday)
