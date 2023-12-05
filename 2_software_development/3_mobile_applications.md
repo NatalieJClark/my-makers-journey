@@ -35,3 +35,5 @@ Kotlin fundamentals:
 Android applications:
 - [Greeting Card](https://github.com/NatalieJClark/greeting-card)
 - [Happy Birthday](https://github.com/NatalieJClark/happy-birthday)
+- [Film Quote](https://github.com/NatalieJClark/film-quote)
+- [Android Layout](https://github.com/NatalieJClark/android-layout)
