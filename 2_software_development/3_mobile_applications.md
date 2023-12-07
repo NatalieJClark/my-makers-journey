@@ -11,16 +11,16 @@
   - [x] Write classes in Kotlin.
   - [x] Write unit tests in Kotlin.
   - [x] Install libraries using the tool Gradle
-- [ ] Android applications:
-  - [ ] Setup and use Android Studio basic features.
-  - [ ] Create an Android App with Android Studio.
-  - [ ] Run apps with the Preview tool in Android Studio.
-  - [ ] Update text with Kotlin.
-  - [ ] Update a User Interface (UI) with Jetpack Compose.
-  - [ ] See a preview of my app with Preview in Jetpack Compose.
-  - [ ] Create and use Composables.
-  - [ ] Implement a button in your app.
-  - [ ] Explain and use state with Composables.
+- [x] Android applications:
+  - [x] Setup and use Android Studio basic features.
+  - [x] Create an Android App with Android Studio.
+  - [x] Run apps with the Preview tool in Android Studio.
+  - [x] Update text with Kotlin.
+  - [x] Update a User Interface (UI) with Jetpack Compose.
+  - [x] See a preview of my app with Preview in Jetpack Compose.
+  - [x] Create and use Composables.
+  - [x] Implement a button in your app.
+  - [x] Explain and use state with Composables.
   - [ ] Handle navigation between two application screens.
   - [ ] Extract state to a ViewModel.
 
@@ -37,3 +37,4 @@ Android applications:
 - [Happy Birthday](https://github.com/NatalieJClark/happy-birthday)
 - [Film Quote](https://github.com/NatalieJClark/film-quote)
 - [Android Layout](https://github.com/NatalieJClark/android-layout)
+- [Tip Time](https://github.com/NatalieJClark/tip-time)
