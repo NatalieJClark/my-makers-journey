@@ -34,16 +34,16 @@ These are my projects for this module (starred projects involved a recorded chal
 >
 > **1. "Simplest possible code"**  
 > When you've got a failing TDD test, the idea is to write the simplest possible code which could make that test pass. There were a couple of places where you skipped slightly too far ahead, though it's completely understandable, because you were going directly to the ultimate solution. EG:
-> - At 17min in the video - you implemented the exception handling, when you should have just returned an Exception for EVERY input. (Your test would pass, and then your next test would illustrate why that wasn't the optimal solution.)
-> - At 22min in the video - you implemented your return "#TODO" in text check, when you should just have written return True . (Your test would pass, and then your next test would illustrate why that wasn't the optional solution.)
+> - At 17min in the video - you implemented the exception handling, when you should have just returned an `Exception` for EVERY input. (Your test would pass, and then your next test would illustrate why that wasn't the optimal solution.)
+> - At 22min in the video - you implemented your `return "#TODO" in text` check, when you should just have written `return True` . (Your test would pass, and then your next test would illustrate why that wasn't the optional solution.)
 > 
 > This is a difficult habit to get into, but it'll prove useful when you're working with larger systems, when "just jumping to the correct code" isn't necessarily quick or easy.
 >
 > **2. Considering your edge cases**  
-> When planning, you wrote down Assume TODO can appear anywhere in the given string - but then your tests didn't verify this! You had one which checked #TODO at the beginning of the string, but nothing with #TODO in the middle or end of the string. Given your chosen implementation, these would have just worked anyway, but it's nice to have the tests there, to protect you in the future. (Somebody might come along with a "better" way to do the check, which might only work if the text is at the beginning of the string - it's good to have the tests as a safety net  
+> When planning, you wrote down `Assume TODO can appear anywhere in the given string` - but then your tests didn't verify this! You had one which checked `#TODO` at the beginning of the string, but nothing with `#TODO` in the middle or end of the string. Given your chosen implementation, these would have just worked anyway, but it's nice to have the tests there, to protect you in the future. (Somebody might come along with a "better" way to do the check, which might only work if the text is at the beginning of the string - it's good to have the tests as a safety net  
 >
-> It's good that you had check_todo("") (with exception handling) but what about a null value - check_todo(None) would currently fail with a different exception.  
+> It's good that you had `check_todo("")` (with exception handling) but what about a null value - `check_todo(None)` would currently fail with a different exception.  
 >
-> Finally (and this is really pedantic and only because I'm a tester) - do you only want to return True if it says #TODO? At the moment, for instance, #TODOS will return True, as will anybody who writes the word #TODOMONDO (because they're a big fan of Romania's 2007 Eurovision entry).  
+> Finally (and this is really pedantic and only because I'm a tester) - do you only want to return True if it says `#TODO`? At the moment, for instance, `#TODOS` will return True, as will anybody who writes the word `#TODOMONDO` (because they're a big fan of Romania's 2007 Eurovision entry).  
 >
 > All of this is to say... when you think you've written all the tests you could possibly need, take a pause and consider whether there might be anything else :slightly_smiling_face:  
