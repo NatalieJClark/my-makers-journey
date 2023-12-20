@@ -66,7 +66,8 @@ These are my projects for this module (starred projects involved a recorded chal
 
 > #### Feedback from Neil Studd (Makers Coach)
 > Good morning Natalie!  
-> I've reviewed your second Golden Square submission (Music Tracker) and I'm genuinely impressed by what I saw here. This is a calm and confident completion of the exercise, demonstrating both solid coding and process skills. If this were a coding challenge in an interview situation, you'd definitely be through to the next phase!  
+> I've reviewed your second Golden Square submission (Music Tracker) and I'm genuinely impressed by what I saw here. This is a calm and confident completion of the exercise, demonstrating both solid coding and process skills. If this were a coding challenge in an interview situation, you'd definitely be through to the next phase!
+> 
 > **Things which were really good:**
 > - All of your design process, including taking the time to rethink your variable names a few times, so that they felt natural.
 > - Remembering the concept of side effects - lots of people forget about this!
