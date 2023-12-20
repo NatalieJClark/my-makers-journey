@@ -16,7 +16,7 @@ These are my projects for this module (starred projects involved a recorded chal
     - <a href=#1-design-and-test-drive-a-single-function-to-do-program>Challenge recording & feedback</a> 👀
 - [Debugging Single Function Programs](https://github.com/NatalieJClark/debugging-single-function-programs)
 - [TDD and Design of Single Class Programs](https://github.com/NatalieJClark/tdd-and-designing-single-class-programs)  ⭐️
-    - <a href=#2-design-and-test-drive-a-single-class-music-tracker-program>Challenge recording & feedback</a> 👀
+    - <a href=#2-design-and-test-drive-a-single-class-music-tracker-program>Challenge recording & feedback</a> 👀  
 - [Debugging Single Class Programs](https://github.com/NatalieJClark/debugging-single-class-programs)
 
 ## Challenge Recording & Feedback
