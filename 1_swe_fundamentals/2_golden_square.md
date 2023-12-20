@@ -24,7 +24,7 @@ These are my projects for this module (starred projects involved a recorded chal
     - [Multi Class To Do](https://github.com/NatalieJClark/multi-class-to-do)
 - Designing multi-class programs:
     - [Multi Class Task Tracker](https://github.com/NatalieJClark/multi-class-task-tracker)
-    - [Multi Class Organiser](https://github.com/NatalieJClark/multi-class-organiser)
+    - [Multi Class Organiser](https://github.com/NatalieJClark/multi-class-organiser) ◀︎◀︎◀︎  Check out my end of module project! 🚀
 
 ## Challenge Recording & Feedback
 
