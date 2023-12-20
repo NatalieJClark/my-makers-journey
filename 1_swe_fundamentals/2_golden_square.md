@@ -18,6 +18,7 @@ These are my projects for this module (starred projects involved a recorded chal
 - [TDD and Design of Single Class Programs](https://github.com/NatalieJClark/tdd-and-designing-single-class-programs)  ⭐️
     - <a href=#2-design-and-test-drive-a-single-class-music-tracker-program>Challenge recording & feedback</a> 👀  
 - [Debugging Single Class Programs](https://github.com/NatalieJClark/debugging-single-class-programs)
+- [Music Library](https://github.com/NatalieJClark/music-library)
 
 ## Challenge Recording & Feedback
 
