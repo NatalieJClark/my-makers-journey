@@ -15,6 +15,8 @@ These are my projects for this module (starred projects involved a recorded chal
 - [TDD and Design of Single Function Programs](https://github.com/NatalieJClark/tdd-and-designing-single-function-programs)  ⭐️ 
     - <a href=#1-design-and-test-drive-a-single-function-to-do-program>Challenge recording & feedback</a> 👀
 - [Debugging Single Function Programs](https://github.com/NatalieJClark/debugging-single-function-programs)
+- [TDD and DEsign of Single Class Programs](https://github.com/NatalieJClark/tdd-and-designing-single-class-programs)  ⭐️
+    - <a href=#2-design-and-test-drive-a-single-class-music-tracker-program>Challenge recording & feedback</a> 👀
 
 ## Challenge Recording & Feedback
 
@@ -47,4 +49,32 @@ These are my projects for this module (starred projects involved a recorded chal
 >
 > Finally (and this is really pedantic and only because I'm a tester) - do you only want to return True if it says `#TODO`? At the moment, for instance, `#TODOS` will return True, as will anybody who writes the word `#TODOMONDO` (because they're a big fan of Romania's 2007 Eurovision entry).  
 >
-> All of this is to say... when you think you've written all the tests you could possibly need, take a pause and consider whether there might be anything else :slightly_smiling_face:  
+> All of this is to say... when you think you've written all the tests you could possibly need, take a pause and consider whether there might be anything else :slightly_smiling_face:
+
+
+#### 2. Design and Test Drive a Single Class "Music Tracker" Program
+
+#### [📽️ See challenge recording](https://drive.google.com/drive/folders/1kB9lD91LWhyiBVawerLoZQ2PWkOe9YA9)
+
+> #### Feedback from Neil Studd (Makers Coach)
+> Good morning Natalie!  
+> I've reviewed your second Golden Square submission (Music Tracker) and I'm genuinely impressed by what I saw here. This is a calm and confident completion of the exercise, demonstrating both solid coding and process skills. If this were a coding challenge in an interview situation, you'd definitely be through to the next phase!  
+> **Things which were really good:**
+> - All of your design process, including taking the time to rethink your variable names a few times, so that they felt natural.
+> - Remembering the concept of side effects - lots of people forget about this!
+> - Considering your edge cases. Though as a tester, I'd always suggest more - I think if you added new test cases for each of these, you might find that they're doing unexpected things right now:
+>     - `music_tracker.add(None)`
+>     - `music_tracker.add(3)`
+>     - `music_tracker.add([""])`
+> - Protecting your instance variable - while things are never "truly" private in Python, by doing this you're indicating that you don't intend for the variable to be accessed directly.
+> - Yay for remembering "simplest possible code" to pass the first test - `return []`
+> I honestly don't have any negatives! I've got a few suggestions for things that you might choose to do differently, for instance if you wanted to revisit later to make enhancements:  
+> - At the moment you're just storing track name. If I add "Hallelujah", was I listening to Jeff Buckley, Leona Lewis or Paramore? You might decide that you'd just add this to the string e.g. `add("Paramore - Hallelujah")` but you might alternatively consider storing the data in a more complex format, so that you can capture artist and title.
+> - At the moment your `list_listened()` method literally just prints out the raw list. To a typical end user, this might not be very user-friendly - effectively you're exposing them to the internals of the system, when they just want you to print them a nice list back. Could you maybe consider modifying the method (and the tests!) to return something nicer, eg:  
+> ```
+> You have listened to the following songs:
+> Track 1
+> Track 2
+> Track 3
+> ```
+> All in all, you deserve a gold star for this one, so here it is -> :star:
