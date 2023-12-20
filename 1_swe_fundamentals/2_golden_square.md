@@ -13,7 +13,7 @@
 These are my projects for this module (starred projects involved a recorded challenge with coach feedback):
 - [Pytest Practise](https://github.com/NatalieJClark/pytest_practice)
 - [TDD and Design of Single Function Programs](https://github.com/NatalieJClark/tdd-and-designing-single-function-programs)  ⭐️ 
-    - <a href=#1-design-and-test-drive-a-single-function>Challenge recording & feedback</a> 👀
+    - <a href=#1-design-and-test-drive-a-single-function-to-do-program>Challenge recording & feedback</a> 👀
 - [Debugging Single Function Programs](https://github.com/NatalieJClark/debugging-single-function-programs)
 
 ## Challenge Recording & Feedback
