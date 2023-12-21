@@ -12,6 +12,8 @@ These are my projects for this module (starred projects involved a recorded chal
 - [Music Library Database](https://github.com/NatalieJClark/music-library-database)
 - [Book Store Database](https://github.com/NatalieJClark/book-store-database)  ⭐️ 
     - <a href=#1-design-and-test-drive-model-and-repository-classes>Challenge recording & feedback</a> 👀
+- Diagramming a Database Application  ⭐️ 
+    - <a href=#2-diagramming-a-database-application>Challenge recording & diagram</a> 👀
   
 ## Challenge Recording & Feedback
 
@@ -30,3 +32,10 @@ These are my projects for this module (starred projects involved a recorded chal
 > - Predicting what you expected to happen when running pytest, i.e. was it going to pass or fail (and getting it right!)
 > - Using autocomplete (in terminal and vscode) to reduce unnecessary typing
 > - Taking time to consider refactoring at the end
+
+#### 2. Diagramming a Database Application
+
+#### [📽️ See challenge recording](https://drive.google.com/drive/folders/1aRsaxHB6pmVlBQxWwPlbHnwA1DzLdTKO)
+
+<img width="1155" alt="image" src="https://github.com/NatalieJClark/my-makers-journey/assets/107806810/3226c025-0ea2-4611-8208-d3701d45409c">
+
