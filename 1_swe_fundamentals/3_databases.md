@@ -14,6 +14,7 @@ These are my projects for this module (starred projects involved a recorded chal
     - <a href=#1-design-and-test-drive-model-and-repository-classes>Challenge recording & feedback</a> 👀
 - Diagramming my Book Store Database Application  ⭐️ 
     - <a href=#2-diagramming-a-database-application>Challenge recording & diagram</a> 👀
+- [Student Directory Table](https://github.com/NatalieJClark/student-directory-table)
   
 ## Challenge Recording & Feedback
 
