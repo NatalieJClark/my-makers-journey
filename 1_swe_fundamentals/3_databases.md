@@ -12,7 +12,7 @@ These are my projects for this module (starred projects involved a recorded chal
 - [Music Library Database](https://github.com/NatalieJClark/music-library-database)
 - [Book Store Database](https://github.com/NatalieJClark/book-store-database)  ⭐️ 
     - <a href=#1-design-and-test-drive-model-and-repository-classes>Challenge recording & feedback</a> 👀
-- Diagramming a Database Application  ⭐️ 
+- Diagramming my Book Store Database Application  ⭐️ 
     - <a href=#2-diagramming-a-database-application>Challenge recording & diagram</a> 👀
   
 ## Challenge Recording & Feedback
