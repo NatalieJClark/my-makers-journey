@@ -15,6 +15,7 @@ These are my projects for this module (starred projects involved a recorded chal
 - Diagramming my Book Store Database Application  ⭐️ 
     - <a href=#2-diagramming-a-database-application>Challenge recording & diagram</a> 👀
 - [Student Directory Table](https://github.com/NatalieJClark/student-directory-table)
+- [Movies Directory Table](https://github.com/NatalieJClark/movies-directory-table)
   
 ## Challenge Recording & Feedback
 
