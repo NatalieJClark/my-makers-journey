@@ -16,6 +16,7 @@ These are my projects for this module (starred projects involved a recorded chal
     - <a href=#2-diagramming-a-database-application>Challenge recording & diagram</a> 👀
 - [Student Directory Table](https://github.com/NatalieJClark/student-directory-table)
 - [Movies Directory Table](https://github.com/NatalieJClark/movies-directory-table)
+- [Recipe Directory Database](https://github.com/NatalieJClark/recipe-directory-database)
   
 ## Challenge Recording & Feedback
 
