@@ -45,7 +45,7 @@ These are my projects for this module (starred projects involved a recorded chal
 
 <img width="1155" alt="image" src="https://github.com/NatalieJClark/my-makers-journey/assets/107806810/3226c025-0ea2-4611-8208-d3701d45409c">
 
-#### 3. Test-drive "Repository" Class Methods to INSERT, DELETE and UPDATE.
+#### 3. Test-drive Repository Class Methods to INSERT, DELETE and UPDATE.
 
 #### [📽️ See challenge recording](https://drive.google.com/drive/folders/1aRsaxHB6pmVlBQxWwPlbHnwA1DzLdTKO)
 
