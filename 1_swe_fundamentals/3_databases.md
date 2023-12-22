@@ -18,7 +18,7 @@ These are my projects for this module (starred projects involved a recorded chal
 - [Recipe Directory Database](https://github.com/NatalieJClark/recipe-directory-database)
 - [Student Directory Two Tables](https://github.com/NatalieJClark/student-directory-two-tables)
 - [Social Network Database](https://github.com/NatalieJClark/social-network-database)
-- [Music Library Database](https://github.com/NatalieJClark/music-library-database) ⭐️ 
+- [Music Library Database](https://github.com/NatalieJClark/music-library-database) ⭐️  ◀︎◀︎◀︎  Check out my end of module project! 🚀
     - <a href=#3-test-drive-repository-class-methods-to-insert-delete-and-update>Challenge recording & feedback</a> 👀
 
 ## Challenge Recording & Feedback
