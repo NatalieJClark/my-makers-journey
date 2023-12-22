@@ -18,6 +18,7 @@ These are my projects for this module (starred projects involved a recorded chal
 - [Movies Directory Table](https://github.com/NatalieJClark/movies-directory-table)
 - [Recipe Directory Database](https://github.com/NatalieJClark/recipe-directory-database)
 - [Student Directory Two Tables](https://github.com/NatalieJClark/student-directory-two-tables)
+- [Social Network Database](https://github.com/NatalieJClark/social-network-database) ◀︎◀︎◀︎  Check out my end of module project! 🚀
   
 ## Challenge Recording & Feedback
 
