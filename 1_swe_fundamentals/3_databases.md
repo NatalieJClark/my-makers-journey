@@ -19,7 +19,7 @@ These are my projects for this module (starred projects involved a recorded chal
 - [Student Directory Two Tables](https://github.com/NatalieJClark/student-directory-two-tables)
 - [Social Network Database](https://github.com/NatalieJClark/social-network-database)
 - [Music Library Database](https://github.com/NatalieJClark/music-library-database) ⭐️ 
-    - <a href=#3-test-drive-repository-class-methods-to-insert-delete--update>Challenge recording & feedback</a> 👀
+    - <a href=#3-test-drive-repository-class-methods-to-insert-delete-and-update>Challenge recording & feedback</a> 👀
 
 ## Challenge Recording & Feedback
 
