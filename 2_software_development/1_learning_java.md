@@ -14,9 +14,9 @@
 
 ## Projects
 These are my projects for this module (starred projects involved a recorded challenge with coach feedback):
-- [java-fundamentals-with-intellij](https://github.com/NatalieJClark/java-fundamentals-with-intellij) ⭐️
+- [Java Fundamentals With IntelliJ](https://github.com/NatalieJClark/java-fundamentals-with-intellij) ⭐️
     - <a href=#1-if-statements-leapyear-challenge>Challenge recording and feedback</a>  
-- [Number Guesser](https://github.com/NatalieJClark/number-guesser)  
+- [Number Guesser Game](https://github.com/NatalieJClark/number-guesser-game)  
 - [Test Driving FizzBuzz In Java](https://github.com/NatalieJClark/test-driving-fizz-buzz-in-java) ⭐️
     - <a href=#1-test-driving-fizzbuzz-in-java-challenge>Challenge recording</a>
 - [hello-world](https://github.com/NatalieJClark/hello-world)  
