@@ -9,7 +9,7 @@
 
 ## Projects
 This module was a week long group project:
-- [Makersbnb](https://github.com/NatalieJClark/makersbnb-python)
+- [Makersbnb](https://github.com/NatalieJClark/makersbnb-python) ◀︎◀︎◀︎  Check out my end of phase group project! 🚀
 
 ## Feedback
 
