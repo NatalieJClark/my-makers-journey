@@ -20,7 +20,7 @@ These are my projects for this module (starred projects involved a recorded chal
 - [fizz_buzz](https://github.com/NatalieJClark/fizz_buzz) ⭐️
     - <a href=#1-test-driving-fizzbuzz-in-java-challenge>Challenge recording</a>
 - [hello-world](https://github.com/NatalieJClark/hello-world)  
-- [makersbnb](https://github.com/NatalieJClark/makersbnb)
+- [makersbnb-java](https://github.com/NatalieJClark/makersbnb-java)
 
 ## Challenge Recording & Feedback
 
