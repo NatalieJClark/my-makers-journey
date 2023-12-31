@@ -19,8 +19,8 @@ These are my projects for this module (starred projects involved a recorded chal
 - [Number Guesser Game](https://github.com/NatalieJClark/number-guesser-game)  
 - [Test Driving FizzBuzz In Java](https://github.com/NatalieJClark/test-driving-fizz-buzz-in-java) ⭐️
     - <a href=#2-test-driving-fizzbuzz-in-java-challenge>Challenge recording</a>
-- [hello-world](https://github.com/NatalieJClark/hello-world)  
-- [makersbnb-java](https://github.com/NatalieJClark/makersbnb-java)
+- [Hello World In Java](https://github.com/NatalieJClark/hello-world-java)  
+- [Makersbnb In Java](https://github.com/NatalieJClark/makersbnb-java)
 
 ## Challenge Recording & Feedback
 
