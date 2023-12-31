@@ -21,8 +21,8 @@
   - [x] Create and use Composables.
   - [x] Implement a button in your app.
   - [x] Explain and use state with Composables.
-  - [ ] Handle navigation between two application screens.
-  - [ ] Extract state to a ViewModel.
+  - [x] Handle navigation between two application screens.
+  - [x] Extract state to a ViewModel.
 
 ## Projects
 
