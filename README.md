@@ -22,5 +22,5 @@
 [Module One (Week 9-10): Learning Java & Its Tools](https://github.com/NatalieJClark/my-makers-journey/blob/main/2_software_development/1_learning_java.md)  
 [Module Two (Week 11-12): Engineering Project 2](https://github.com/NatalieJClark/my-makers-journey/blob/main/2_software_development/2_engineering_project_2.md) ◀︎◀︎◀︎  Check out my mid-phase group project! 🚀  
 [Module Three (Week 13-14): Mobile Applications](https://github.com/NatalieJClark/my-makers-journey/blob/main/2_software_development/3_mobile_applications.md)  
-
+[Module Four (Week 15-16): Engineering Project 3](https://github.com/NatalieJClark/my-makers-journey/blob/main/2_software_development/4_engineering_project_3.md) ◀︎◀︎◀︎  Check out my final group project! 🚀  
 
