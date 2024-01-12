@@ -2,9 +2,9 @@
 
 ## Learning Objectives
 
-- [x] Use high-quality processes to build an extended project in a team
+- [x] Use high-quality processes to build an extended project in a team.
 - [x] Have fun!
-- [x] Be a better developer than you were yesterday
+- [x] Be a better developer than you were yesterday.
 
 ## Projects
 This module was a two week long group project:
