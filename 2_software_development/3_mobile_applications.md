@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 
-- [x] Kotlin fundamentals:
+- [x] [Kotlin fundamentals](https://github.com/makersacademy/kotlin-fundamentals):
   - [x] Explain and use data types in Kotlin.
   - [x] Write Kotlin functions.
   - [x] Use conditionals in Kotlin.
@@ -11,7 +11,7 @@
   - [x] Write classes in Kotlin.
   - [x] Write unit tests in Kotlin.
   - [x] Install libraries using the tool Gradle
-- [x] Android applications:
+- [x] [Android applications](https://github.com/makersacademy/kotlin-android-applications):
   - [x] Setup and use Android Studio basic features.
   - [x] Create an Android App with Android Studio.
   - [x] Run apps with the Preview tool in Android Studio.
